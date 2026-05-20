@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 public class Universidad {
     // Atributos privados (encapsulamiento)
-    private String nombre;
+    private String nombree;
     private String direccion;
     private ArrayList<Estudiante> estudiantes; // Relación con Estudiante
     private ArrayList<Carrera> carreras;
